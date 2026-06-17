@@ -40,3 +40,4 @@ We specialize in creating **custom software, web & mobile apps, and ERP solution
 At **Azorics**, we believe in building **smart, reliable, and scalable software** that helps businesses thrive in the digital age.  
 
 > 💡 Follow us for open-source projects, ERP tools, and innovative solutions.
+> 
